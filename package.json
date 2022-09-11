@@ -1,7 +1,7 @@
 {
   "name": "parcel-project-template",
   "version": "2.0.0",
-  "description": "**Read in other languages: [Русский](README.md), [Polski](README.pl.md).**",
+  "description": "",
   "homepage": "https://yano4ka1.github.io/goit-js-hw-08/",
   "scripts": {
     "start": "parcel src/*.html",
@@ -15,7 +15,7 @@
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Yano4ka1/goit-js-hw-08.git"
+    "url": "https://github.com/Yano4ka1/goit-js-hw-08/issues"
   },
   "dependencies": {
     "@vimeo/player": "^2.17.1",
@@ -29,6 +29,5 @@
     "parcel-reporter-clean-dist": "^1.0.4",
     "posthtml-include": "^1.7.4"
   },
-  "browserslist": "> 0.5%, last 2 versions, not dead",
-  "main": "index.js"
+  "browserslist": "> 0.5%, last 2 versions, not dead"
 }
